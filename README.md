@@ -54,17 +54,27 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gshlbrsb/gshlbrsb/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/gshlbrsb/gshlbrsb/output/snake.svg" alt="Snake animation"
+  />
+</picture>
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/gshlbrsb">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=gshlbrsb&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31em5562gmic7237tbckbhmydnq4)
+
+###
+
+<img src="https://raw.githubusercontent.com/gshlbrsb/gshlbrsb/output/snake.svg" alt="Snake animation" />
 
 ###
