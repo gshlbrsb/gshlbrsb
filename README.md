@@ -1,7 +1,4 @@
 
-<h2 align="left">A passionate UI/UX design student eager to learn new technologies and grow professionally. Though I have no formal experience, I’m enthusiastic, willing to learn, and committed to engaging with the design community to grow together and help one another."</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gshlbrsb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,6 +6,15 @@
 </div>
 
 ###
+
+
+
+<br>
+
+
+
+<br>
+
 
 <img align="right" height="200" src="https://media1.tenor.com/m/8EYsL7kKCd4AAAAd/muichiro-tokito.gif"  />
 
@@ -54,7 +60,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/gshlbrsb/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
