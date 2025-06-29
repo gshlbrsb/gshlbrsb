@@ -74,10 +74,7 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31em5562gmic7237tbckbhmydnq4)
 
 ###
-
-<img src="https://raw.githubusercontent.com/gshlbrsb/gshlbrsb/output/snake.svg" alt="Snake animation" />
 
 ###
